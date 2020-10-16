@@ -18,7 +18,7 @@ addons:
   sonarcloud:
     organization: "oriolbernal"
     token:
-      secure: "a3d359255be6a56097d3aa5d137b972b7f5ac829"
+      secure: $S2
 
 script:
   - mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=oriolbernal -Dsonar.login=$SONAR
