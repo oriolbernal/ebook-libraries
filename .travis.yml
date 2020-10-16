@@ -14,12 +14,6 @@ notifications:
       - obernalpo@gmail.com
 install:
   - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-addons:
-  sonarcloud:
-    organization: "oriolbernal"
-    token:
-      secure: "a3d359255be6a56097d3aa5d137b972b7f5ac829"
-
 script:
   - mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=oriolbernal -Dsonar.login=$SONAR
 deploy:
