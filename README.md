@@ -12,6 +12,7 @@
 ### Estado del código
 [![Build Status](https://travis-ci.org/oriolbernal/ebook-libraries.svg?branch=develop)](https://travis-ci.org/oriolbernal/ebook-libraries)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=com.obernalpo%3Aebook-libraries&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=com.obernalpo%3Aebook-libraries)
+[![BCH compliance](https://bettercodehub.com/edge/badge/oriolbernal/ebook-libraries?branch=develop)](https://bettercodehub.com/results/oriolbernal/ebook-libraries)
 [![Heroku broken](https://ebook-libraries.herokuapp.com/system/version-badge)](https://ebook-libraries.herokuapp.com/swagger-ui.html)
 
 ### Tecnologías necesarias
