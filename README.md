@@ -2,13 +2,18 @@
 ## Ingeniería Web: Visión General (IWVG) DevOps
 > Este proyecto es una Plantilla de apoyo docente de la asignatura.
 
-### :gear: Instalación del proyecto
-1. Clonar el repositorio en tu equipo, **mediante consola**:
-```sh
-> cd <folder path>
-> git clone https://github.com/:owner/:repo
-```
-2. Importar el proyecto mediante **IntelliJ IDEA**
-   1. **Import Project**, y seleccionar la carpeta del proyecto.
-   1. Marcar **Create Project from external model**, elegir **Maven**.
-   1. **Next** … **Finish**.
+[![GitHub](https://img.shields.io/github/license/oriolbernal/ebook-libraries?color=informational)](https://github.com/oriolbernal/ebook-libraries/blob/master/LICENSE.md)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/oriolbernal/ebook-libraries?color=informational)](https://github.com/oriolbernal/ebook-libraries/releases)
+![GitHub Release Date](https://img.shields.io/github/release-date/oriolbernal/ebook-libraries?color=informational)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/oriolbernal/ebook-libraries)
+![GitHub issues](https://img.shields.io/github/issues/oriolbernal/ebook-libraries?color=important)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/oriolbernal/ebook-libraries?color=informational)
+
+### Estado del código
+[![Build Status](https://travis-ci.org/oriolbernal/ebook-libraries.svg?branch=develop)](https://travis-ci.org/oriolbernal/ebook-libraries)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=com.obernalpo%3Aebook-libraries&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=com.obernalpo%3Aebook-libraries)
+[![Heroku broken](https://ebook-libraries.herokuapp.com/system/version-badge)](https://ebook-libraries.herokuapp.com/swagger-ui.html)
+
+### Tecnologías necesarias
+`Java` `Maven` `GitHub` `Travis-ci` `Sonarcloud` `Better Code Hub` `Slack` `Spring-boot` `Heroku` `OpenAPI`
+
